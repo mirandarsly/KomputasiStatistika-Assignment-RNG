@@ -1,4 +1,4 @@
-# Tugas3Komstat
+# Tugas 3 Komstat
 Topik: Random Number Generator (RNG)
 
 # Soal 1
